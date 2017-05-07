@@ -2,7 +2,7 @@
 title: "Tie Analysis"
 layout: post
 date: 2016-01-23 22:10
-tag: Data Analysis
+tag: Data Analysis, Visualization
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
@@ -12,8 +12,6 @@ category: project
 author: Akhil
 externalLink: false
 ---
-
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
 Hi folks! Let's figure out how we can plot a simple histogram analyzing the price of Gucci ties available in a reasonably big data sample (around 5000 rec).
 Before we proceed, let's download 'data.csv' from [Akhil's Github Repo](https://github.com/akhil-sreehari/BasicDataAnalysis)
