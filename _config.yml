@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: akhil.sreehari
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: sreehari_akhil
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: akhil-sreehari-aa8b20a0
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -47,9 +47,9 @@ github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: akhilssmec@gmail.com
 
 authors:
     johndoe:
@@ -58,17 +58,11 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -106,4 +100,4 @@ gems:
   - jemoji
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/akhil-sreehari
