@@ -3,7 +3,7 @@ title: "Tie Analysis"
 layout: post
 date: 2016-01-23 22:10
 tag: Data Analysis, Visualization
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://github.com/akhil-sreehari/master-site/raw/master/data.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

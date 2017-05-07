@@ -3,7 +3,7 @@ layout: post
 title: Tableau for Best Employee in different regions
 date: 2017-05-01 12:10
 tag: Data Analysis, Tableau
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://github.com/akhil-sreehari/master-site/raw/master/data.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
