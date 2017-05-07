@@ -3,7 +3,7 @@ layout: post
 title: Target Sales across stores in Europe
 date: 2017-05-06 7:10
 tag: Data Analysis, Tableau
-image: assets/images/akhil.jpg
+image: https://github.com/akhil-sreehari/master-site/raw/master/data.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
