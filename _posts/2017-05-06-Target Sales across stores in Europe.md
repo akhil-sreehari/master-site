@@ -3,7 +3,7 @@ layout: post
 title: Target Sales across stores in Europe
 date: 2017-05-06 7:10
 tag: Data Analysis, Tableau
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: assets/images/akhil.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
