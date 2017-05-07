@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "A simple data analysis project"
 category: project
-author: Akhil Sreehari
+author: Akhil
 externalLink: false
 ---
 
