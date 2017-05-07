@@ -1,6 +1,6 @@
 # main text of home
 name: Akhil Sreehari
-bio: A Man who travels the world eating noodles
+bio: A Man who likes to expore tech
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -42,7 +42,7 @@ instagram: sreehari_akhil
 linkedin: akhil-sreehari-aa8b20a0
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: akhil-sreehari
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -54,7 +54,7 @@ email: akhilssmec@gmail.com
 authors:
     Akhil:
         name: Akhil Sreehari
-        bio: The man who loves everything
+        bio: The man who loves tech
         external-image: false
         picture: assets/images/akhil.jpg
         # twitter: johndoe
