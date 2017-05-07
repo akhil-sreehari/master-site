@@ -53,16 +53,16 @@ email: akhilssmec@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Akhil Sreehari
+        bio: The man who loves everything
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/akhil.jpg
+        # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
