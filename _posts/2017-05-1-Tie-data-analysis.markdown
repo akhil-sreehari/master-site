@@ -7,7 +7,7 @@ image: https://github.com/akhil-sreehari/master-site/raw/master/data.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "A simple data analysis project"
+description: "Analyzing the prices for Gucci ties from sample data"
 category: project
 author: Akhil
 externalLink: false
