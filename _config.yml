@@ -1,6 +1,6 @@
 # main text of home
 name: Akhil Sreehari
-bio: A Man who likes to expore tech
+bio: A Ninja in Pyjama 8-)
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ email: akhilssmec@gmail.com
 authors:
     Akhil:
         name: Akhil Sreehari
-        bio: The man who loves tech
+        bio: A Ninja in Pyjama 8-)
         external-image: false
         picture: assets/images/akhil.jpg
         # twitter: johndoe
